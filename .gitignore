@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# SSG output — generated files don't belong in source control
+dist/
+public/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
