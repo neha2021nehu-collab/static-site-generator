@@ -1,3 +1,10 @@
+---
+title: My Python Journey
+author: Neha
+date: 2025-04-21
+tags: [python, learning, architecture]
+---
+
 # My Python Journey
 
 Learning Python has been one of the most rewarding experiences of my career.
